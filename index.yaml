@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  netbox:
+  - apiVersion: v2
+    appVersion: 3.6.2
+    created: "2025-02-20T14:43:31.1062064-05:00"
+    dependencies:
+    - condition: redis.enabled
+      name: redis
+      repository: https://charts.bitnami.com/bitnami
+      version: 17.3.11
+    description: A Helm chart for deploying NetBox with Redis
+    digest: 307edb42d5d13c5b1a3cc830d361f0ffca7169cf52fc36e1c0aa5e0b803ebf2b
+    name: netbox
+    type: application
+    urls:
+    - https://glatham36.github.io/charts/netbox-1.1.0.tgz
+    version: 1.1.0
+generated: "2025-02-20T14:43:31.0938651-05:00"
