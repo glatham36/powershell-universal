@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  powershell-universal:
+  - apiVersion: v2
+    appVersion: 5.0.0
+    created: "2025-03-01T23:09:46.1356418-05:00"
+    description: A Helm chart to deploy PowerShell Universal v5
+    digest: 0a241f69623443d53281d78089e30943a5f6ade9f4eee0e2cf46a2bb861b8311
+    name: powershell-universal
+    type: application
+    urls:
+    - https://glatham36.github.io/powershell-universal/powershell-universal-1.0.0.tgz
+    version: 1.0.0
+generated: "2025-03-01T23:09:46.1345337-05:00"
