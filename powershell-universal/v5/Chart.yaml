@@ -1,6 +1,0 @@
-apiVersion: v2
-name: powershell-universal
-version: 1.0.0
-description: A Helm chart to deploy PowerShell Universal v5
-appVersion: "5.0.0"
-type: application
